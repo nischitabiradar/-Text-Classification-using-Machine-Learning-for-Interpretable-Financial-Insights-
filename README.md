@@ -11,3 +11,6 @@ Used Latent Dirichlet Allocation topic model to provide insight on prominent com
 - Text Classification
 - ArcGIS
 - Tableau
+
+# Link to the Project Website
+https://sites.google.com/sdsu.edu/text-analysis-project/home?authuser=0
